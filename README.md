@@ -10,6 +10,7 @@
             background-color: #FFE59A;
             margin: 0;
             padding: 0;
+             text-color: 0000000;
         }
 
         header {
