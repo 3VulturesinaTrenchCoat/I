@@ -2,6 +2,9 @@
 <head>
 body {
   background-color: #FFE59A;
-  header{
-    backround-color:BED9FF;
-}}
+ header {
+        background-color: #BED9FF;
+        color: white;
+        text-align: center;
+        padding: 20px;
+      }}
