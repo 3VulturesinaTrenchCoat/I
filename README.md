@@ -25,6 +25,11 @@
             margin: auto;
             margin-top: 50px;
         }
+          img {
+            display: block;
+            margin: auto;
+            margin-top: 50px;
+        }
     </style>
 </head>
 <body>
@@ -33,6 +38,7 @@
     </header>
 
     <img src="https://cdn.spacetelescope.org/archives/images/screen/heic2105a.jpg" alt="Star Image" width="200">
-
+  <img src="https://cdn12.picryl.com/photo/2016/12/31/kitten-cat-cat-baby-animals-6023b2-1024.jpg" alt="cat Image" width="200">
+}
 </body>
 </html>
