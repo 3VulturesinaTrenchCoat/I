@@ -10,6 +10,10 @@ body {
         padding: 20 px;
     text-color: 0000000;
       }
-
+  img {
+            display: block;
+            margin: auto;
+            margin-top: 50px;
+        }
   <img src="https://cdn.spacetelescope.org/archives/images/screen/heic2105a.jpg" alt="Star Image" width="200">
 }
