@@ -38,7 +38,6 @@
         <h1>Welcome to my amazing website</h1>
     </header>
 
-    <img src="https://cdn.spacetelescope.org/archives/images/screen/heic2105a.jpg" alt="Star Image" width="200">
   <img src="https://cdn12.picryl.com/photo/2016/12/31/kitten-cat-cat-baby-animals-6023b2-1024.jpg" alt="cat Image" width="200">
          <a href="https://studio.code.org/projects/gamelab/4gAVXhQuZTDWkOs1iRQHhoKUgKvEFb28f_wFrYQcbyU">My bad Game UWU</a>
     <br>
