@@ -42,6 +42,6 @@
   <img src="https://cdn12.picryl.com/photo/2016/12/31/kitten-cat-cat-baby-animals-6023b2-1024.jpg" alt="cat Image" width="200">
          <a href="MyGame.html">My bad Game UWU</a>
     <br>
-   href="https://studio.code.org/projects/gamelab/4gAVXhQuZTDWkOs1iRQHhoKUgKvEFb28f_wFrYQcbyU"
+  <a href="https://studio.code.org/projects/gamelab/4gAVXhQuZTDWkOs1iRQHhoKUgKvEFb28f_wFrYQcbyU" </a>
 </body>
 </html>
