@@ -1,4 +1,4 @@
-![20220703_174525](https://github.com/3VulturesinaTrenchCoat/I/assets/152926938/0aedaf8b-57ce-4212-b9d8-ff407933cf27)
+
 <!DOCTYPE html>
 <html lang="en">
      <link rel="stylesheet" href="style.css">
@@ -40,13 +40,12 @@
     </header>
 
   <img src="https://cdn12.picryl.com/photo/2016/12/31/kitten-cat-cat-baby-animals-6023b2-1024.jpg" alt="cat Image" width="200">
-  ![20220703_174525](https://github.com/3VulturesinaTrenchCoat/I/assets/152926938/bb001ca9-46d8-4182-b852-45de6c637768)
-
          <a href="https://studio.code.org/projects/gamelab/4gAVXhQuZTDWkOs1iRQHhoKUgKvEFb28f_wFrYQcbyU">My bad Game UWU</a>
     <br>
     <a href="https://www.hopeacademympls.org/"> Hope School</a>
     <br>
    <a href="https://instagram.com/3vultursinatrenchcoat?igshid=MzMyNGUyNmU2YQ==">My Instagram</a>
    <br>
+   ![20220703_174525](https://github.com/3VulturesinaTrenchCoat/I/assets/152926938/0aedaf8b-57ce-4212-b9d8-ff407933cf27)
 </body>
 </html>
