@@ -46,7 +46,8 @@
     <br>
    <a href="https://instagram.com/3vultursinatrenchcoat?igshid=MzMyNGUyNmU2YQ==">My Instagram</a>
    <br>
-
+<a href="https://assets-global.website-files.com/6465456f5d8910cfe3590e98/64b806aaed5ebc558a38a85c_HOPE%20ACADEMY%202023-24%20Calendar.pdf">School schedule</a>
+<br>
 </body>
 </html>
 ![20220703_174525](https://github.com/3VulturesinaTrenchCoat/I/assets/152926938/711d46d8-c532-45f6-a2be-ae5570e72d45)
