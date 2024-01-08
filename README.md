@@ -40,6 +40,7 @@
 
   
   <img src="https://cdn12.picryl.com/photo/2016/12/31/kitten-cat-cat-baby-animals-6023b2-1024.jpg" alt="cat Image" width="200">
+  "Some of my art"
   <img src="https://github.com/3VulturesinaTrenchCoat/I/assets/152926938/6c1ca985-fc4f-4373-bc82-765979342301" alt="art 1" width="200">
   <img src="https://github.com/3VulturesinaTrenchCoat/I/assets/152926938/1dd541c0-6236-424c-934c-923b616c89be" alt="art 2" width="200">
 
