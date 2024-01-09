@@ -38,14 +38,12 @@
         <h1>Welcome to whatever THIS is</h1>
     </header>
   Some of my art
-  <img src="https://github.com/3VulturesinaTrenchCoat/I/assets/152926938/6c1ca985-fc4f-4373-bc82-765979342301" alt="art 1" width="200">
-  <img src="https://github.com/3VulturesinaTrenchCoat/I/assets/152926938/1dd541c0-6236-424c-934c-923b616c89be" alt="art 2" width="200">
-My stuff
+  <img src="https://github.com/3VulturesinaTrenchCoat/I/assets/152926938/6c1ca985-fc4f-4373-bc82-765979342301" alt="art 1" width="200">, <img src="https://github.com/3VulturesinaTrenchCoat/I/assets/152926938/1dd541c0-6236-424c-934c-923b616c89be" alt="art 2" width="200">
+
 <a href="https://studio.code.org/projects/gamelab/4gAVXhQuZTDWkOs1iRQHhoKUgKvEFb28f_wFrYQcbyU">My bad Game UWU</a>
     <br>
    <a href="https://instagram.com/3vultursinatrenchcoat?igshid=MzMyNGUyNmU2YQ==">My Instagram</a>
    <br>
-School 
      <a href="https://assets-global.website-files.com/6465456f5d8910cfe3590e98/64b806aaed5ebc558a38a85c_HOPE%20ACADEMY%202023-24%20Calendar.pdf">School schedule</a>
      <br>
     <a href="https://www.hopeacademympls.org/"> Hope School</a>
