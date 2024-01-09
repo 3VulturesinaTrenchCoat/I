@@ -1,3 +1,4 @@
+![Game Poster](https://github.com/3VulturesinaTrenchCoat/I/assets/152926938/d317b2c8-32d8-4b0a-b0f2-ff2a015c5500)
 
 <html lang="en">
      <link rel="stylesheet" href="style.css">
@@ -39,6 +40,8 @@
     </header>
   Some of my art
   <img src="https://github.com/3VulturesinaTrenchCoat/I/assets/152926938/6c1ca985-fc4f-4373-bc82-765979342301" alt="art 1" width="200">, <img src="https://github.com/3VulturesinaTrenchCoat/I/assets/152926938/1dd541c0-6236-424c-934c-923b616c89be" alt="art 2" width="200">
+ 
+<img src="https://github.com/3VulturesinaTrenchCoat/I/assets/152926938/87d49e40-ad13-4d42-b8d7-aa543ff13872" alt="game poster" width="200">
 
 <a href="https://studio.code.org/projects/gamelab/4gAVXhQuZTDWkOs1iRQHhoKUgKvEFb28f_wFrYQcbyU">My bad Game UWU</a>
     <br>
@@ -52,3 +55,4 @@
 </html>
 ![20220703_174525](https://github.com/3VulturesinaTrenchCoat/I/assets/152926938/711d46d8-c532-45f6-a2be-ae5570e72d45)
 
+![Game Poster](https://github.com/3VulturesinaTrenchCoat/I/assets/152926938/87d49e40-ad13-4d42-b8d7-aa543ff13872)
