@@ -46,7 +46,8 @@
      <img src="https://github.com/3VulturesinaTrenchCoat/I/assets/152926938/1dd541c0-6236-424c-934c-923b616c89be" alt="art 2" width="200">
  </div>
 </div>
-     
+     <p> </p>
+
 <p> <img src="https://github.com/3VulturesinaTrenchCoat/I/assets/152926938/87d49e40-ad13-4d42-b8d7-aa543ff13872" alt="game poster" width="200"> <a href="https://studio.code.org/projects/gamelab/4gAVXhQuZTDWkOs1iRQHhoKUgKvEFb28f_wFrYQcbyU">My bad Game UWU</a>
     <br> </p> 
   <p> <a href="https://instagram.com/3vultursinatrenchcoat?igshid=MzMyNGUyNmU2YQ==">My Instagram</a>
