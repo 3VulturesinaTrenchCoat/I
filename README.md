@@ -47,10 +47,8 @@
  </div>
 </div>
      
-<p> <img src="https://github.com/3VulturesinaTrenchCoat/I/assets/152926938/87d49e40-ad13-4d42-b8d7-aa543ff13872" alt="game poster" width="200"> </p>
-
-<a href="https://studio.code.org/projects/gamelab/4gAVXhQuZTDWkOs1iRQHhoKUgKvEFb28f_wFrYQcbyU">My bad Game UWU</a>
-    <br>
+<p> <img src="https://github.com/3VulturesinaTrenchCoat/I/assets/152926938/87d49e40-ad13-4d42-b8d7-aa543ff13872" alt="game poster" width="200"> <a href="https://studio.code.org/projects/gamelab/4gAVXhQuZTDWkOs1iRQHhoKUgKvEFb28f_wFrYQcbyU">My bad Game UWU</a>
+    <br> </p> 
   <p> <a href="https://instagram.com/3vultursinatrenchcoat?igshid=MzMyNGUyNmU2YQ==">My Instagram</a>
    <br> </p>
      <a href="https://assets-global.website-files.com/6465456f5d8910cfe3590e98/64b806aaed5ebc558a38a85c_HOPE%20ACADEMY%202023-24%20Calendar.pdf">School schedule</a>
