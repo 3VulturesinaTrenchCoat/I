@@ -1,4 +1,3 @@
-![Game Poster](https://github.com/3VulturesinaTrenchCoat/I/assets/152926938/d317b2c8-32d8-4b0a-b0f2-ff2a015c5500)
 
 <html lang="en">
      <link rel="stylesheet" href="style.css">
