@@ -51,9 +51,11 @@
  <p> <a href="https://studio.code.org/projects/gamelab/4gAVXhQuZTDWkOs1iRQHhoKUgKvEFb28f_wFrYQcbyU">My bad Game UWU </a>
     <br> </p> 
 <p> <img src="https://github.com/3VulturesinaTrenchCoat/I/assets/152926938/87d49e40-ad13-4d42-b8d7-aa543ff13872" alt="game poster" width="200"> </p> 
+
   <p> <a href="https://instagram.com/3vultursinatrenchcoat?igshid=MzMyNGUyNmU2YQ==">My Instagram</a>
    <br> </p>
      <a href="https://assets-global.website-files.com/6465456f5d8910cfe3590e98/64b806aaed5ebc558a38a85c_HOPE%20ACADEMY%202023-24%20Calendar.pdf">School schedule</a>
+     aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
      <br>
     <a href="https://www.hopeacad<img width="181" alt="Screenshot 2024-01-09 161833" src="https://github.com/3VulturesinaTrenchCoat/I/assets/152926938/48733251-dd64-4bb1-800a-c7e75f0dadff">
 emympls.org/"> Hope School</a>
@@ -69,5 +71,5 @@ emympls.org/"> Hope School</a>
 </body>
 </html>
 ![20220703_174525](https://github.com/3VulturesinaTrenchCoat/I/assets/152926938/711d46d8-c532-45f6-a2be-ae5570e72d45)
-![Uploading Screenshot 2024-01-09 161833.png…]()
+
 
