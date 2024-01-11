@@ -46,6 +46,7 @@
      <img src="https://github.com/3VulturesinaTrenchCoat/I/assets/152926938/1dd541c0-6236-424c-934c-923b616c89be" alt="art 2" width="200">
  </div>
 </div>
+     what i've spent most of this class doing
       <div class="row">
   <div class="column">
        <img src="https://github.com/3VulturesinaTrenchCoat/I/assets/152926938/8a7ff778-3247-4c13-91ae-a26942e4af7e" alt="art 1" width="200">
