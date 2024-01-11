@@ -57,9 +57,9 @@
      <a href="https://assets-global.website-files.com/6465456f5d8910cfe3590e98/64b806aaed5ebc558a38a85c_HOPE%20ACADEMY%202023-24%20Calendar.pdf">School schedule</a>
      aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
      <br>
-    <a href="https://www.hopeacad<img width="181" alt="Screenshot 2024-01-09 161833" src="https://github.com/3VulturesinaTrenchCoat/I/assets/152926938/48733251-dd64-4bb1-800a-c7e75f0dadff">
-emympls.org/"> Hope School</a>
+    <a href="https://www.hopeacademympls.org/"> Hope School</a>
     <br>
+    <img width="181" alt="Screenshot 2024-01-09 161833" src="https://github.com/3VulturesinaTrenchCoat/I/assets/152926938/48733251-dd64-4bb1-800a-c7e75f0dadff">
         <div class="row">
   <div class="column">
   <img src="https://github.com/3VulturesinaTrenchCoat/I/assets/152926938/711d46d8-c532-45f6-a2be-ae5570e72d45" alt="art 1" width="200">
