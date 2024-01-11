@@ -51,11 +51,14 @@
   <div class="column">
        <img src="https://github.com/3VulturesinaTrenchCoat/I/assets/152926938/8a7ff778-3247-4c13-91ae-a26942e4af7e" alt="art 1" width="200">
         </div>
+             <div class="column">
            <img src="https://github.com/3VulturesinaTrenchCoat/I/assets/152926938/de08b110-d567-4fe7-a92e-ae338f076d9f" alt="art 1" width="200">
 </div>
+             <div class="column">
            <img src="https://github.com/3VulturesinaTrenchCoat/I/assets/152926938/c16e266c-3bfb-4ff5-87b1-d11fb3c33dd8" alt="art 1" width="200">
 <img src="https://github.com/3VulturesinaTrenchCoat/I/assets/152926938/08e0776f-e4ef-4309-8af5-119b41c3f1eb" alt="art 1" width="200">
 </div>
+             <div class="column">
 <img src="https://github.com/3VulturesinaTrenchCoat/I/assets/152926938/cd39c18b-04c1-4e5c-ab9e-ebed0614ba8b" alt="art 1" width="200">
 </div>
     </div>   
