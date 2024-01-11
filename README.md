@@ -46,7 +46,19 @@
      <img src="https://github.com/3VulturesinaTrenchCoat/I/assets/152926938/1dd541c0-6236-424c-934c-923b616c89be" alt="art 2" width="200">
  </div>
 </div>
-     <p> </p>
+      <div class="row">
+  <div class="column">
+       <img src="https://github.com/3VulturesinaTrenchCoat/I/assets/152926938/8a7ff778-3247-4c13-91ae-a26942e4af7e" alt="art 1" width="200">
+        </div>
+           <img src="https://github.com/3VulturesinaTrenchCoat/I/assets/152926938/de08b110-d567-4fe7-a92e-ae338f076d9f" alt="art 1" width="200">
+</div>
+           <img src="https://github.com/3VulturesinaTrenchCoat/I/assets/152926938/c16e266c-3bfb-4ff5-87b1-d11fb3c33dd8" alt="art 1" width="200">
+<img src="https://github.com/3VulturesinaTrenchCoat/I/assets/152926938/08e0776f-e4ef-4309-8af5-119b41c3f1eb" alt="art 1" width="200">
+</div>
+<img src="https://github.com/3VulturesinaTrenchCoat/I/assets/152926938/cd39c18b-04c1-4e5c-ab9e-ebed0614ba8b" alt="art 1" width="200">
+</div>
+    </div>   
+           <p> </p>
 
  <p> <a href="https://studio.code.org/projects/gamelab/4gAVXhQuZTDWkOs1iRQHhoKUgKvEFb28f_wFrYQcbyU">My bad Game UWU </a>
     <br> </p> 
@@ -73,3 +85,8 @@
 ![20220703_174525](https://github.com/3VulturesinaTrenchCoat/I/assets/152926938/711d46d8-c532-45f6-a2be-ae5570e72d45)
 
 
+![20240110_154327](https://github.com/3VulturesinaTrenchCoat/I/assets/152926938/8a7ff778-3247-4c13-91ae-a26942e4af7e)
+![20240110_154336](https://github.com/3VulturesinaTrenchCoat/I/assets/152926938/de08b110-d567-4fe7-a92e-ae338f076d9f)
+![20240110_154343](https://github.com/3VulturesinaTrenchCoat/I/assets/152926938/c16e266c-3bfb-4ff5-87b1-d11fb3c33dd8)
+![20240110_154348](https://github.com/3VulturesinaTrenchCoat/I/assets/152926938/08e0776f-e4ef-4309-8af5-119b41c3f1eb)
+![20240110_154357](https://github.com/3VulturesinaTrenchCoat/I/assets/152926938/cd39c18b-04c1-4e5c-ab9e-ebed0614ba8b)
