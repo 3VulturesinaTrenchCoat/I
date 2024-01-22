@@ -1,4 +1,3 @@
-(https://github.com/3VulturesinaTrenchCoat/I/files/14016016/Developer.class.paragraph.pdf)
 
 <html lang="en">
      <link rel="stylesheet" href="style.css">
