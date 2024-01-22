@@ -91,4 +91,5 @@
 ![20220703_174525](https://github.com/3VulturesinaTrenchCoat/I/assets/152926938/711d46d8-c532-45f6-a2be-ae5570e72d45)
 I have no idea what im doing <3
      <a href="https://github.com/3VulturesinaTrenchCoat/I">github repository </a>
-[Developer class paragraph.pdf]
+     [Developer class paragraph.pdf](https://github.com/3VulturesinaTrenchCoat/I/files/14016051/Developer.class.paragraph.pdf)
+
